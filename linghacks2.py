@@ -93,5 +93,4 @@ def translate(speech):
         print("I couldn't understand what you said, please say one of the following options:")
         translate(speech)   
         
-search_word()
 
